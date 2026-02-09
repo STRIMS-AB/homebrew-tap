@@ -9,7 +9,7 @@ class Bbrun < Formula
   license "MIT"
 
   url "https://github.com/STRIMS-AB/bbrun/releases/download/v#{version}/bbrun-#{version}.tar.gz"
-  sha256 "d5a995ecc55f13e60ae9e1634ab03b7bb539f1c13be7347c0629ea1fbdeb949d"
+  sha256 "2cd9fa811c9f878c11ab2b841aaa7c08b93c6d6831b00cc0d846e9a5c143e8aa"
 
   depends_on "openjdk@17"
 
